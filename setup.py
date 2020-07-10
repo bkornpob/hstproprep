@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="hstgrism",
+    name="hstproprep",
     version="1.0.0",
     author="Kornpob Bhirombhakdi",
     author_email="kbhirombhakdi@stsci.edu",
